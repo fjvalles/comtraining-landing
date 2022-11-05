@@ -8,18 +8,17 @@
 ####################################################
 
 # Site settings
-title: "Redron - Jekyll Premium Theme"
-email: "themeix@gmail.com"
+title: "Comtraining"
+email: "info@comtraining.biz"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: " " # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo/logo.png
-description: "Redron is a responsive Jekyll template for your business website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+description: ""
+keywords: "coaching, coaching ejecutivo, liderazgo, cambio organizacional, clima organizacional, team building, team learning"
 mailclimp: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
-facebook: https://facebook.com/themeix
+facebook: https://www.facebook.com/Comtrainingpro/
 instagram: https://instagram.com/themeix
-twitter: https://twitter.com/themeix_com
-pinterest: https://pinterest.com/themeix
+twitter: https://twitter.com/comtraining
 
 
 # Build settings
