@@ -2,7 +2,7 @@
 
 ## Coaching ejecutivo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c3a62e5-e371-4226-82c6-35070219484d/deploy-status)](https://app.netlify.com/sites/comtraining/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d5aa0045-cb9f-4495-b114-0a55d345a242/deploy-status)](https://app.netlify.com/sites/comtraining/deploys)
 
 ## Página web
 https://comtraining.cl/
