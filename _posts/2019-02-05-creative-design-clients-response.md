@@ -1,21 +1,25 @@
 ---
 layout: post
-title: "Creative design clients response is better"
-date: 2019-02-09 20:37:13 +0600
-tags: [technology, education]
-categories: [tips, tech]
-author_name: "Ecuelass Chapman"
-post_image: "/assets/img/blog/b3.jpg"
+title: Gestión del Cambio - La Coalición para el Cambio
+date: 2022-04-08T15:37:13.000Z
+post_image: /assets/img/blog/b3.jpg
+author_name: Ecuelass Chapman
+comments: true
+tags:
+  - technology
+  - education
 post_id: 3
+categories:
+  - tips
+  - tech
 ---
-
-<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure</p>
+<p>Por lo general, el cambio es patrocinado en el nivel superior de una organización aunque puede impulsarse también en los niveles inferiores o niveles medios de esta. Por esta razón, la formación de una coalición del cambio (también llamada de liderazgo del cambio o equipo de supervisión del cambio) es esencial para la viabilidad a largo plazo de cualquier esfuerzo de cambio.</p>
   <blockquote>
-      <p>Consultations are slowly gaining immense recognition and are growing phenomenally with more and more people trading with this digital currency. The universal acceptance of Constation. pursue pleasure rationally encounter</p>
+      <p>Para formar este equipo o coalición, encuentra, convence y selecciona a personas de diferentes niveles de tu organización que tengan poder de decisión, credibilidad, experiencia funcional y responsabilidad de liderazgo de línea.</p>
   </blockquote>							
-  <p> because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.</p>
-  <h4>With more and more people trading with this digital </h4>
-  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+  <p> Selecciona también, a quienes cuentan con la confianza de los stakeholders más influyentes (por ejemplo, trabajadores de primera línea y sindicatos). Observa las respectivas fortalezas de las personas que formaran la coalición. Las dinámicas entre estas personas ¿Ciertas personas complementan los estilos y habilidades de los demás?.</p>
+  <h4>Fuerza para el cambio </h4>
+  <p>Un equipo así te dará la fuerza necesaria para impulsar el cambio que generará tu proyecto. Su comprensión y entendimiento de cómo funciona la organización será esencial para comprender exactamente lo que necesitas hacer para implementar tu proyecto de manera efectiva. Luego, define la coalición con cada una de las personas, cargos y roles que van a ocupar.  La coalición del cambio interactuará con los stakeholders, gestionará las inquietudes y supervisará la transición del cambio sin problemas. </p>
   <div class="img-blog left-blog-img">
       <img src="{{'/assets/img/blog/b3.jpg' | relative_url }}" alt="">
   </div>
