@@ -1,17 +1,20 @@
 ---
 layout: post
-title: "Alternative Free Way To Be A Prodessional Designer"
-date: 2019-02-09 20:37:13 +0600
-tags: [technology, education]
-categories: [tech]
-author_name: "Themeix"
-post_image: "/assets/img/blog/b2.jpg"
+title: Liderazgo en tiempos de crisis
+date: 2022-07-15T15:37:00.000Z
+post_image: /assets/img/blog/b2.jpg
+author_name: Francisco Vallés
+comments: true
+tags:
+  - technology
+  - education
 post_id: 2
+categories:
+  - tech
 ---
-
-<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself. because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure</p>
+<p>Las acciones de un líder en tiempos de estrés son seguidas de cerca por sus colaboradores</p>
   <blockquote>
-      <p>Consultations are slowly gaining immense recognition and are growing phenomenally with more and more people trading with this digital currency. The universal acceptance of Constation. pursue pleasure rationally encounter</p>
+      <p>Estas tienen un impacto profundo en la cultura de la empresa y en el comportamiento de los empleados. Los líderes exitosos tienen que estar conscientes de lo que su propio estrés puede desencadenar en la gente y modular su comportamiento durante estos períodos para asegurarse de que actúa de una forma que sea compatible con sus creencias y valores fundamentales</p>
   </blockquote>							
   <p> because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.</p>
   <h4>With more and more people trading with this digital </h4>
