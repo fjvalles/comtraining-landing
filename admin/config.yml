@@ -1,0 +1,22 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
+      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'Foto principal', name: 'post_image', widget: 'image' }
+      - { label: 'Autor', name: 'author_name', widget: 'string' }
+      - { label: '¿Permitir comentarios?', name: 'comments', widget: 'boolean' }

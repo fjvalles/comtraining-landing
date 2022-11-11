@@ -15,17 +15,5 @@
   link: /#
   
 - name: E
-  img_src: /assets/img/brand/5.svg
-  link: /#
-  
-- name: F
-  img_src: /assets/img/brand/6.png
-  link: /#
-  
-- name: G
-  img_src: /assets/img/brand/1.png
-  link: /#
-  
-- name: H
-  img_src: /assets/img/brand/2.png
+  img_src: /assets/img/brand/5.png
   link: /#

@@ -3,7 +3,7 @@
     <div class="footer-area">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-5">
                     <div class="footer-content logo-footer">
                         <div class="footer-head">
                             <div class="footer-logo">
@@ -15,21 +15,21 @@
                                 then create. maintains the amount of lines. When replacing a selection. help agencies to
                                 define their
                             </p>
-                            <div class="subs-feilds">
+                            <!-- <div class="subs-feilds">
                                 <form action="{{site.mailclimp}}" method="post" class="suscribe-input">
                                     <input type="email" name="email" class="email form-control width-80" id="sus_email"
                                         placeholder="Type Email">
                                     <button type="submit" id="sus_submit" class="add-btn">Subscribe</button>
                                 </form>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <!-- end single footer -->
-                <div class="col-md-2">
+                <div class="col-md-4">
                     <div class="footer-content">
                         <div class="footer-head">
-                            <h4>Services Link</h4>
+                            <h4>Servicios</h4>
                             <ul class="footer-list">
                                 {% for service in site.services limit:5 %}
                                 <li><a href="{{service.url | relative_url}}">{{service.title}}</a></li>
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <div class="footer-content">
                         <div class="footer-head">
                             <h4>Projects Link</h4>
@@ -49,12 +49,12 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- end single footer -->
                 <div class="col-md-3">
                     <div class="footer-content last-content">
                         <div class="footer-head">
-                            <h4>Information</h4>
+                            <h4>Información</h4>
                             <div class="footer-contacts">
                                 <p><span>Ubicación :</span> Santiago de Chile</p>
                                 <p><span>Tel :</span> +562-3308-8000</p>
@@ -107,17 +107,15 @@
                         <p class="copyright-text m-0">©
                             <script>
                                 document.write(new Date().getFullYear())
-                            </script>. Design with <i class="ti-heart text-success"></i> by
-                            <a class="text-success" href="https://themeix.com">themeix</a>.
+                            </script>. Todos los derechos reservados.
                         </p>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="footer-menu">
                         <ul>
-                            <li><a href="{{'/about' | relative_url }}">About</a></li>
-                            <li><a href="#">Terms & Condition</a></li>
-                            <li><a href="#">Privacy</a></li>
+                            <li><a href="#">Términos y condiciones</a></li>
+                            <li><a href="#">Política de privacidad</a></li>
                         </ul>
                     </div>
                 </div>
