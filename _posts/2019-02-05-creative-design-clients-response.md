@@ -3,7 +3,7 @@ layout: post
 title: Gestión del Cambio - La Coalición para el Cambio
 date: 2022-04-08T15:37:13.000Z
 post_image: /assets/img/blog/b3.jpg
-author_name: Ecuelass Chapman
+author_name: F. Vallés
 comments: true
 tags:
   - technology
@@ -17,7 +17,7 @@ categories:
   <blockquote>
       <p>Para formar este equipo o coalición, encuentra, convence y selecciona a personas de diferentes niveles de tu organización que tengan poder de decisión, credibilidad, experiencia funcional y responsabilidad de liderazgo de línea.</p>
   </blockquote>							
-  <p> Selecciona también, a quienes cuentan con la confianza de los stakeholders más influyentes (por ejemplo, trabajadores de primera línea y sindicatos). Observa las respectivas fortalezas de las personas que formaran la coalición. Las dinámicas entre estas personas ¿Ciertas personas complementan los estilos y habilidades de los demás?.</p>
+  <p> Selecciona también, a quienes cuentan con la confianza de los stakeholders más influyentes (por ejemplo, trabajadores de primera línea y sindicatos). Observa las respectivas fortalezas de las personas que formarán la coalición. Las dinámicas entre estas personas ¿Ciertas personas complementan los estilos y habilidades de los demás?.</p>
   <h4>Fuerza para el cambio </h4>
   <p>Un equipo así te dará la fuerza necesaria para impulsar el cambio que generará tu proyecto. Su comprensión y entendimiento de cómo funciona la organización será esencial para comprender exactamente lo que necesitas hacer para implementar tu proyecto de manera efectiva. Luego, define la coalición con cada una de las personas, cargos y roles que van a ocupar.  La coalición del cambio interactuará con los stakeholders, gestionará las inquietudes y supervisará la transición del cambio sin problemas. </p>
   <div class="img-blog left-blog-img">
