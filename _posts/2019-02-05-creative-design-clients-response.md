@@ -26,4 +26,4 @@ categories:
   <div class="img-blog right-blog-img">
       <img src="{{'/assets/img/blog/b4.jpg' | relative_url }}" alt="">
   </div>
-  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+  <p>Los roles dentro de este equipo requieren una descripción detallada de las responsabilidades de cada integrante.  Este grupo será responsable de elaborar el plan de gestión del cambio cuidando, entre otros, aspectos tales como la situación de partida, áreas de mejora, identificación de profesionales claves, experiencias previas negativas o positivas,  potenciales situaciones de freno y sistemas o estructuras a reforzar o consolidar..</p>
