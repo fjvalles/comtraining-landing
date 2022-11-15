@@ -8,6 +8,7 @@ comments: true
 tags:
   - technology
   - education
+  - Gestión
 post_id: 3
 categories:
   - tips
