@@ -1,20 +1,21 @@
 items:
-  - name: A
+  - name: Solex
     img_src: /assets/img/brand/1.png
-    link: /#
-    
-  - name: B
+    link: https://www.solex.biz/
+    img_serc: /assets/uploads/1.png
+  - name: Codelco
     img_src: /assets/img/brand/2.png
-    link: /#
-    
-  - name: C
+    link: https://www.codelco.com/
+    img_serc: /assets/uploads/2.png
+  - name: UAI
     img_src: /assets/img/brand/3.png
-    link: /#
-    
-  - name: D
+    link: https://www.uai.cl/
+    img_serc: /assets/uploads/3.png
+  - name: BHP
     img_src: /assets/img/brand/4.png
-    link: /#
-    
-  - name: E
+    link: https://www.bhp.com/es
+    img_serc: /assets/uploads/4.png
+  - name: MSD
     img_src: /assets/img/brand/5.png
-    link: /#
+    link: https://www.corporativo.msdchile.cl/
+    img_serc: /assets/uploads/5.png
