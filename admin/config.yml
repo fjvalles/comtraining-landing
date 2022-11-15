@@ -117,5 +117,5 @@ collections:
             widget: 'list'
             fields:
               - { label: Nombre, name: name, widget: string }
-              - { label: Imagen, name: img_serc, widget: image }
+              - { label: Imagen, name: img_src, widget: image }
               - { label: Enlace, name: link, widget: string }
