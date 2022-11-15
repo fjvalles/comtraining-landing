@@ -65,3 +65,57 @@ collections:
             fields:
               - { label: Nombre, name: text, widget: string }
               - { label: Enlace, name: url, widget: string }
+              - label: 'Menú desplegable'
+                name: 'submenu'
+                widget: 'list'
+                fields:
+                  - { label: Nombre, name: text, widget: string }
+                  - { label: Enlace, name: url, widget: string }
+      - label: 'Testimonios'
+        name: 'testimonials'
+        file: '_data/testimonials.yml'
+        fields:
+          - label: 'Registros'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: Nombre, name: name, widget: string }
+              - { label: Imagen de perfil, name: image, widget: image }
+              - { label: Reseña, name: review, widget: text }
+              - { label: Cargo, name: designation, widget: string }
+              - { label: Rating, name: rating, widget: number }
+      - label: 'Miembros del equipo'
+        name: 'members'
+        file: '_data/team-members.yml'
+        fields:
+          - label: 'Miembros'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: Nombre, name: name, widget: string }
+              - { label: Imagen de perfil, name: img_src, widget: image }
+              - { label: Cargo, name: designation, widget: string }
+              - { label: Facebook, name: facebook, widget: string }
+              - { label: Twitter, name: twitter, widget: string }
+              - { label: Instagram, name: instagram, widget: string }
+      - label: 'FAQs'
+        name: 'faqs'
+        file: '_data/faqs.yml'
+        fields:
+          - label: 'Preguntas frecuentes'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: Pregunta, name: question, widget: string }
+              - { label: Respuesta, name: answer, widget: text }
+      - label: 'Empresas'
+        name: 'brands'
+        file: '_data/brands.yml'
+        fields:
+          - label: 'Empresas'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: Nombre, name: name, widget: string }
+              - { label: Imagen, name: img_serc, widget: image }
+              - { label: Enlace, name: link, widget: string }

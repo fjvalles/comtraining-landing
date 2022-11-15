@@ -20,7 +20,7 @@
                 <div class="Reviews-content">
                     <!-- start testimonial carousel -->
                     <div class="testimonial-carousel owl-carousel">
-                        {% for testimonial in site.data.testimonials %}
+                        {% for testimonial in site.data.testimonials.items %}
                             {% include review-card.html %}
                         {% endfor %}
                     </div>

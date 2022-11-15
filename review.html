@@ -38,7 +38,7 @@ permalink: /review
                 </div>
             </div>
             <div class="row">
-                {% for testimonial in site.data.testimonials %}
+                {% for testimonial in site.data.testimonials.items %}
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         {% include review-card.html %}
                     </div>

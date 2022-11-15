@@ -19,7 +19,7 @@
                     <div class="faq_inner">
                         <div id="accordion">
                             {% assign i = 1%}
-                            {% for faq in site.data.faqs %}
+                            {% for faq in site.data.faqs.items %}
                             <div class="card">
                                 <div class="card-header white-bg" id="heading-{{i}}">
                                     <h4 class="faq-top-text">

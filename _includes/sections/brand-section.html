@@ -10,7 +10,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="brand-content">
                     <div class="brand-carousel owl-carousel">
-                        {% for brand in site.data.brands %}
+                        {% for brand in site.data.brands.items %}
                             {% if brand.img_src %}
                             <div class="single-brand-item">
                                 <a href="{{brand.url | relative_url}}" target="_blank"><img src="{{brand.img_src | relative_url }}" alt="{{brand.name}}"></a>
