@@ -98,13 +98,13 @@ layout: default
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="section-headline text-center">
-                        <h2>More services</h2>
+                        <h2>Más servicios</h2>
                         <p>We help agencies to define their new business objectives and then create the road map</p>
                     </div>
                 </div>
             </div>
             <div class="row">
-                {% for service in site.services limit:4 %}
+                {% for service in site.services %}
                     {% if page.service_id != service.service_id %}
                     <!-- single dervices -->
                     <div class="col-xl-4 col-lg-4 col-md-6">

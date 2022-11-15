@@ -1,5 +1,5 @@
 <ul class="main-menu">
-    {% for link in site.data.navigation %}
+    {% for link in site.data.navigation.items %}
     <li class="{% if link.submenu %}menu-item-has-children{% endif %}"><a href="{{ link.url|prepend:site.baseurl }}">{{ link.text }}</a>
         {% if link.submenu %}
             <ul class="submenu">

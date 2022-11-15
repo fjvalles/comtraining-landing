@@ -3,7 +3,10 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+local_backend: true
 media_folder: 'assets/uploads'
+site_url: https://comtraining.netlify.app/
+logo_url: https://comtraining.netlify.app/assets/img/logo/logo.png
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -18,5 +21,46 @@ collections:
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Foto principal', name: 'post_image', widget: 'image' }
-      - { label: 'Autor', name: 'author_name', widget: 'string' }
+      - label: "Autor"
+        name: "author_name"
+        widget: "select"
+        options:
+          - { label: "Francisco Vallés", value: "Francisco Vallés" }
+          - { label: "Anónimo", value: "Anónimo" }
       - { label: '¿Permitir comentarios?', name: 'comments', widget: 'boolean' }
+      - label: "Etiquetas"
+        name: "tags"
+        widget: "list"
+        min: 1
+      - label: "Categorías"
+        name: "categories"
+        widget: "list"
+        min: 1
+  - name: 'services'
+    label: 'Servicios'
+    folder: '_services/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'service' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Ícono', name: 'icon', widget: 'image' }
+      - { label: 'Descripción', name: 'description', widget: 'text' }
+      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+      - label: 'Navegación'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        fields:
+          - label: 'Ítems de navegación'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: Nombre, name: text, widget: string }
+              - { label: Enlace, name: url, widget: string }

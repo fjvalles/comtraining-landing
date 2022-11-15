@@ -15,7 +15,7 @@ url: " " # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo/logo.png
 description: ""
 keywords: "coaching, coaching ejecutivo, liderazgo, cambio organizacional, clima organizacional, team building, team learning"
-mailclimp: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
+mailclimp: ''
 facebook: https://www.facebook.com/Comtrainingpro/
 instagram: https://www.instagram.com/comtraining.consulting/
 twitter: https://twitter.com/comtraining
@@ -83,7 +83,7 @@ jekyll-archives:
 collections:
   services:
     output: true
-    permalink: /service/:path/
+    permalink: /servicios/:path/
   projects:
     output: true
     permalink: /project/:path/
