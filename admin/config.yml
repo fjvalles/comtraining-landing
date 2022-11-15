@@ -13,8 +13,6 @@ collections:
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Título', name: 'title', widget: 'string' }
@@ -32,18 +30,19 @@ collections:
         name: "tags"
         widget: "list"
         min: 1
+        summary: '{{fields.name}}'
+        field: {label: Name, name: name, widget: string}
       - label: "Categorías"
         name: "categories"
         widget: "list"
         min: 1
+        default: ["news"]
   - name: 'services'
     label: 'Servicios'
     folder: '_services/'
     extension: 'html'
     create: true
     slug: '{{slug}}'
-    editor:
-      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'service' }
       - { label: 'Título', name: 'title', widget: 'string' }
