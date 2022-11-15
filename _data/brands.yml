@@ -2,20 +2,15 @@ items:
   - name: Solex
     img_src: /assets/img/brand/1.png
     link: https://www.solex.biz/
-    img_serc: https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg
   - name: Codelco
     img_src: /assets/img/brand/2.png
     link: https://www.codelco.com/
-    img_serc: /assets/uploads/2.png
   - name: UAI
     img_src: /assets/img/brand/3.png
     link: https://www.uai.cl/
-    img_serc: /assets/uploads/3.png
   - name: BHP
     img_src: /assets/img/brand/4.png
     link: https://www.bhp.com/es
-    img_serc: /assets/uploads/4.png
   - name: MSD
     img_src: /assets/img/brand/5.png
     link: https://www.corporativo.msdchile.cl/
-    img_serc: /assets/uploads/5.png
