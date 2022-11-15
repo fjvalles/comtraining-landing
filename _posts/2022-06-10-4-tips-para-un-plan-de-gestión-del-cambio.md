@@ -6,13 +6,11 @@ post_image: /assets/img/blog/b3.jpg
 author_name: Francisco Vallés
 comments: true
 tags:
-  - technology
-  - education
-  - Gestión
+  - tecnología
+  - educación
 post_id: 3
 categories:
   - tips
-  - tech
 ---
 <p>El cambio es situacional. Es una interrupción de las expectativas (por ejemplo, un nuevo proyecto, nuevo CEO, nuevas funciones, políticas, procesos, tecnología, etc.). Cada cambio, incluso el más anhelado, requiere dejar algo atrás y soltarlo.</p>
   <blockquote>

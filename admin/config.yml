@@ -31,12 +31,13 @@ collections:
         widget: "list"
         min: 1
         summary: '{{fields.name}}'
-        field: {label: Name, name: name, widget: string}
+        field: {label: Nombre, name: name, widget: string}
       - label: "Categorías"
         name: "categories"
         widget: "list"
         min: 1
-        default: ["news"]
+        summary: '{{fields.name}}'
+        field: {label: Nombre, name: name, widget: string}
   - name: 'services'
     label: 'Servicios'
     folder: '_services/'

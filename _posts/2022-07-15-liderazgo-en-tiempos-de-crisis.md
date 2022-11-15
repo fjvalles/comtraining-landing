@@ -6,11 +6,11 @@ post_image: /assets/img/blog/b2.jpg
 author_name: Francisco Vallés
 comments: true
 tags:
-  - technology
-  - education
+  - tecnología
+  - educación
 post_id: 2
 categories:
-  - tech
+  - tips
 ---
 <p>Las acciones de un líder en tiempos de estrés son seguidas de cerca por sus colaboradores</p>
   <blockquote>

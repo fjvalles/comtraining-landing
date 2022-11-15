@@ -33,12 +33,12 @@
 
                 {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                <li><a href="{{'/category/' | relative_url }}{{category | slugify}}">{{ category
+                <li><a href="{{'/categoría/' | relative_url }}{{category | slugify}}">{{ category
                     | camelcase }}</a><span>{{category.size}}</span></li>
                 {% endfor %}
                 {% else %}
                 {% for category in categories_list %}
-                <li><a href="{{'/category/' | relative_url }}{{category[0] | slugify}}">{{ category[0]
+                <li><a href="{{'/categoría/' | relative_url }}{{category[0] | slugify}}">{{ category[0]
                     | camelcase }}</a><span>{{category[0].size}}</span></li>
                 {% endfor %}
                 {% endif %}
@@ -52,7 +52,7 @@
                 <h4>etiquetas populares</h4>
                 <ul>
                     {% for tag in site.tags %}
-                    <li><a href="{{'/tag/' | relative_url }}{{tag[0] | slugify}}">{{tag[0] | camelcase}}</a></li>
+                    <li><a href="{{'/etiqueta/' | relative_url }}{{tag[0] | slugify}}">{{tag[0] | camelcase}}</a></li>
                     {% endfor %}
                 </ul>
             </div>

@@ -36,40 +36,38 @@ pagination:
   debug: true
   collection: 'posts'
   per_page: 6
-  permalink: '/pages/:num/' # Pages are simple html files 
+  permalink: '/pages/:num/' # Pages are simple html files
   title: ':title - page :num'
-  limit: 0 
+  limit: 0
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
   tag: ''
-  locale: '' 
-  trail: 
+  locale: ''
+  trail:
     before: 2
-    after: 
+    after:
   extension: 'html'
   indexpage: 'index'
 
 autopages:
   enabled: true
-  categories: 
-    layouts: 
+  categories:
+    layouts:
       - 'category.html'
-    title: 'Category -  :cat'
-    permalink: '/category/:cat'
+    title: 'Categoría -  :cat'
+    permalink: '/categoría/:cat'
   collections:
-    layouts: 
+    layouts:
       - 'category.html'
     title: ' :coll' # :coll is replaced by the collection name
     permalink: '/:coll/'
-    
-  
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
-    title: 'Tag - :tag' # :tag is replaced by the tag name
-    permalink: '/tag/:tag'  
-      
+    title: 'Etiqueta - :tag' # :tag is replaced by the tag name
+    permalink: '/etiqueta/:tag'
+
 tag_page_layout: category
 tag_page_dir: tag
 tag_permalink_style: pretty
@@ -78,7 +76,7 @@ jekyll-archives:
   enabled: all
   layout: category
   permalinks:
-    category: '/category/:name/'
+    category: '/categoría/:name/'
 
 collections:
   services:
@@ -87,7 +85,7 @@ collections:
   projects:
     output: true
     permalink: /project/:path/
-    
+
 feed:
   collections:
     posts:
