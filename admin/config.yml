@@ -145,21 +145,25 @@ collections:
         name: 'feature'
         file: '_data/feature.yml'
         fields:
-          - { label: Epígrafe, name: header_title, widget: string }
-          - { label: Título, name: title, widget: string }
-          - { label: Descripción, name: description, widget: text }
-          - { label: Imagen, name: image, widget: image }
-          - { label: Imagen superpuesta, name: over_image, widget: image }
-          - label: "Dirección imagen"
-            name: "image_direction"
-            widget: "select"
-            options:
-              - { label: "Izquierda", value: "left" }
-              - { label: "Derecha", value: "right" }
-          - label: 'Listado'
-            name: 'main_points'
+          - label: 'Secciones'
+            name: 'items'
             widget: 'list'
             fields:
+              - { label: Epígrafe, name: header_title, widget: string }
               - { label: Título, name: title, widget: string }
-              - { label: Texto, name: text, widget: text }
-              - { label: Ícono, name: icon, widget: string }
+              - { label: Descripción, name: description, widget: text }
+              - { label: Imagen, name: image, widget: image }
+              - { label: Imagen superpuesta, name: over_image, widget: image }
+              - label: "Dirección imagen"
+                name: "image_direction"
+                widget: "select"
+                options:
+                  - { label: "Izquierda", value: "left" }
+                  - { label: "Derecha", value: "right" }
+              - label: 'Listado'
+                name: 'main_points'
+                widget: 'list'
+                fields:
+                  - { label: Título, name: title, widget: string }
+                  - { label: Texto, name: text, widget: text }
+                  - { label: Ícono, name: icon, widget: string }
