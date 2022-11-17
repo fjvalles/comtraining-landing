@@ -11,6 +11,7 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
+    sort: 'date:desc'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
@@ -49,6 +50,9 @@ collections:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Ícono', name: 'icon', widget: 'image' }
       - { label: 'Descripción', name: 'description', widget: 'text' }
+      - { label: 'Cita', name: 'quote', widget: 'text' }
+      - { label: 'Autor cita', name: 'quote_author', widget: 'string' }
+      - { label: 'Subtexto autor cita', name: 'quote_author_subtitle', widget: 'string' }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
   - name: 'config'
     label: 'Config'
@@ -117,3 +121,45 @@ collections:
               - { label: Nombre, name: name, widget: string }
               - { label: Imagen, name: img_src, widget: image }
               - { label: Enlace, name: link, widget: string }
+      - label: 'Acerca de nosotros'
+        name: 'about'
+        file: '_data/about.yml'
+        fields:
+          - { label: Epígrafe, name: header_title, widget: string }
+          - { label: Título, name: title, widget: string }
+          - { label: Descripción, name: description, widget: text }
+          - { label: Imagen, name: image, widget: image }
+          - { label: Texto imagen, name: image_text, widget: string }
+          - label: 'Listado'
+            name: 'main_points'
+            widget: 'list'
+            fields:
+              - { label: Texto, name: text, widget: string }
+          - label: 'Cuadros de texto'
+            name: 'text_items'
+            widget: 'list'
+            fields:
+              - { label: Texto, name: text, widget: string }
+              - { label: Ícono, name: icon, widget: string }
+      - label: 'Funcionalidades'
+        name: 'feature'
+        file: '_data/feature.yml'
+        fields:
+          - { label: Epígrafe, name: header_title, widget: string }
+          - { label: Título, name: title, widget: string }
+          - { label: Descripción, name: description, widget: text }
+          - { label: Imagen, name: image, widget: image }
+          - { label: Imagen superpuesta, name: over_image, widget: image }
+          - label: "Dirección imagen"
+            name: "image_direction"
+            widget: "select"
+            options:
+              - { label: "Izquierda", value: "left" }
+              - { label: "Derecha", value: "right" }
+          - label: 'Listado'
+            name: 'main_points'
+            widget: 'list'
+            fields:
+              - { label: Título, name: title, widget: string }
+              - { label: Texto, name: text, widget: text }
+              - { label: Ícono, name: icon, widget: string }

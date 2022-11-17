@@ -2,7 +2,7 @@ items:
   - text: Home
     url: /#
   - text: Nosotros
-    url: /about
+    url: /acerca-de-nosotros
   - text: Servicios
     url: /nuestros-servicios
     submenu:

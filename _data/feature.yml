@@ -1,0 +1,27 @@
+items:
+  - header_title: Características
+    title: Personalización de soluciones de entrenamiento
+    description: Sabemos que sus necesidades de entrenamiento son únicas., por lo que adaptamos nuestras soluciones según su cultura organizacional y valores.
+    image: /assets/img/feature/vd.jpg
+    over_image: /assets/img/feature/sd.jpg
+    image_direction: right
+    main_points:
+      - title: Soporte Online
+        text: Le entregamos un soporte online permanente durante toda la duración del servicio contratado.
+        icon: flaticon-073-speech
+      - title: Fortalecimiento Significativo
+        text: Ayudamos a las organizaciones de todos los tamaños a obtener una ventaja competitiva al fortalecer significativamente su fuerza laboral.
+        icon: flaticon-002-globe
+  - header_title: Features
+    title: Redron technology startup provides clients security
+    description: The phrasal sequence of the Lorem Ipsum text is now so and that many the phrase when found, an alarm can be raised.
+    image: /assets/img/feature/vd2.jpg
+    over_image: /assets/img/feature/sd1.jpg
+    image_direction: left
+    main_points:
+      - title: Team Management
+        text: The phrasal sequence of the Lorem Ipsum text is now so and that many the phrase when found, an alarm can be raised.
+        icon: flaticon-014-hierarchical-structure
+      - title: Live Profitable Trades
+        text: The phrasal sequence of the Lorem Ipsum text is now so and that many the phrase when found, an alarm can be raised.
+        icon: flaticon-125-analytics

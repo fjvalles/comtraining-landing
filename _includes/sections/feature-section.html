@@ -1,94 +1,38 @@
 <!-- Start Feature Area -->
+{% for item in site.data.feature.items %}
 <div class="feature-area {% if page.home != 4 %} bg-color {% endif %} fix area-padding">
     <div class="container">
         <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="col-xl-6 col-lg-6 col-md-6" style="order: {% if item.image_direction == 'left' %}2{% else %}1{% endif %}">
                 <div class="feature-all">
                     <div class="right-headline">
                         <span class="top-text">
                             <i class="ti-stats-up"></i>
-                            <span>Características</span>
+                            <span>{{item.header_title}}</span>
                         </span>
-                        <h2>Personalización de soluciones de entrenamiento</h2>
-                        <p>Sabemos que sus necesidades de entrenamiento son únicas., por lo que adaptamos nuestras soluciones según su cultura organizacional y valores.</p>
+                        <h2>{{item.title}}</h2>
+                        <p>{{item.description}}</p>
                     </div>
-                    <!-- about single -->
-                    <div class="support-services wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="support-images" href="#"><i class="flaticon-073-speech"></i></a>
-                        <div class="support-content">
-                            <h4>Soporte online</h4>
-                            <p>Le entregamos un soporte online permanente durante toda la duración del servicio contratado.</p>
+                    {% for point in item.main_points %}
+                        <div class="support-services wow fadeInUp" data-wow-delay="0.3s">
+                            <a class="support-images" href="#"><i class="{{point.icon}}"></i></a>
+                            <div class="support-content">
+                                <h4>{{point.title}}</h4>
+                                <p>{{point.text}}</p>
+                            </div>
                         </div>
-                    </div>
-                    <!-- about single -->
-                    <div class="support-services wow fadeInUp" data-wow-delay="0.7s">
-                        <a class="support-images" href="#"><i class="flaticon-002-globe"></i></a>
-                        <div class="support-content">
-                            <h4>Fortalecimiento significativo</h4>
-                            <p>Ayudamos a las organizaciones de todos los tamaños a obtener una ventaja competitiva al fortalecer significativamente su fuerza laboral.</p>
-                        </div>
-                    </div>
-                    <!-- about single -->
+                    {% endfor %}
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="col-xl-6 col-lg-6 col-md-6" style="order: {% if item.image_direction == 'left' %}1{% else %}2{% endif %}">
                 <div class="feature-content">
                     <div class="feature-images">
-                        <img src="{{'/assets/img/feature/vd.jpg' | relative_url }}" alt="" class="first-img">
-                        <img src="{{'/assets/img/feature/sd.jpg' | relative_url }}" alt="" class="over-img">
+                        <img src="{{item.image | relative_url }}" alt="" class="first-img">
+                        <img src="{{item.over_image | relative_url }}" alt="" class="over-img">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- End Feature Area -->
-
-<!-- Start Feature Area -->
-<div class="feature-area feature-area-2 fix area-padding {% if  page.home == 4 %} bg-color {% endif %}">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-6">
-                <div class="feature-content">
-                    <div class="feature-images">
-                        <img src="{{'/assets/img/feature/vd2.jpg' | relative_url }}" alt="" class="first-img">
-                        <img src="{{'/assets/img/feature/sd1.jpg' | relative_url }}" alt="" class="over-img">
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
-                <div class="feature-all">
-                    <div class="right-headline">
-                        <span class="top-text">
-                            <i class="ti-stats-up"></i>
-                            <span>Features</span>
-                        </span>
-                        <h2>Redron technology startup provides clients security</h2>
-                        <p>The phrasal sequence of the Lorem Ipsum text is now so and that many the phrase when
-                            found, an alarm can be raised.</p>
-                    </div>
-                    <!-- about single -->
-                    <div class="support-services wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="support-images" href="#"><i class="flaticon-014-hierarchical-structure"></i></a>
-                        <div class="support-content">
-                            <h4>Team Management</h4>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so and that many the phrase when
-                                found, an alarm can be raised.</p>
-                        </div>
-                    </div>
-                    <!-- about single -->
-                    <div class="support-services wow fadeInUp" data-wow-delay="0.7s">
-                        <a class="support-images" href="#"><i class="flaticon-125-analytics"></i></a>
-                        <div class="support-content">
-                            <h4>live profitable trades</h4>
-                            <p>The phrasal sequence of the Lorem Ipsum text is now so and that many the phrase when
-                                found, an alarm can be raised.</p>
-                        </div>
-                    </div>
-                    <!-- about single -->
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Feature Area -->
+{% endfor %}
