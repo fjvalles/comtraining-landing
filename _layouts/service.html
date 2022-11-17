@@ -39,7 +39,9 @@ layout: default
                             <div class="left-menu">
                                 <ul>
                                     {% for service in site.services %}
-                                        <li class="{% if page.title == service.title %}active{% endif %}"><a href="#">{{service.title}}</a></li>
+                                    <li class="{% if page.title == service.title %}active{% endif %}">
+                                        <a href="{{service.url | relative_url}}">{{service.title}}</a>
+                                    </li>
                                     {% endfor %}
                                 </ul>
                             </div>

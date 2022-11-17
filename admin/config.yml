@@ -95,9 +95,7 @@ collections:
               - { label: Nombre, name: name, widget: string }
               - { label: Imagen de perfil, name: img_src, widget: image }
               - { label: Cargo, name: designation, widget: string }
-              - { label: Facebook, name: facebook, widget: string }
-              - { label: Twitter, name: twitter, widget: string }
-              - { label: Instagram, name: instagram, widget: string }
+              - { label: Linkedin, name: linkedin, widget: string }
       - label: 'FAQs'
         name: 'faqs'
         file: '_data/faqs.yml'

@@ -42,9 +42,13 @@ layout: default
                                     </span>
                                     <span class="comments-type">
                                         <i class="ti-book"></i>
-                                        {% assign words = content | number_of_words %}
-                                        {% if words < 360 %} 1 min {% else %} {{ words | divided_by:180 }} mins {% endif
-                                            %} </span>
+                                        {% assign words = page.content | number_of_words %}
+                                        {% if words < 360 %}
+                                            1 min
+                                        {% else %}
+                                            {{ words | divided_by:180 }} mins
+                                        {% endif %}
+                                    </span>
                                 </div>
                                 <h3>{{page.title}}</h3>
                                 {{page.content}}
@@ -54,11 +58,13 @@ layout: default
                     <div class="clear"></div>
                     {% include related-posts.html %}
                     <div class="clear"></div>
+                    {% if page.comments %}
                     <div class="single-post-comments">
                         <div class="comments-area">
                             {% include comments.html %}
                         </div>
                     </div>
+                    {% endif %}
                     <!-- single-blog end -->
                 </div>
                 <!-- Start Right Sidebar blog -->

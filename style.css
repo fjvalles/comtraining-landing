@@ -1121,7 +1121,7 @@ div#preloader {
   font-size: 22px;
   margin-bottom: 0;
   padding: 0 0 15px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-weight: 500;
 }
 
@@ -3263,7 +3263,7 @@ div#preloader {
   font-weight: 700;
   padding: 20px 30px;
   position: relative;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #151b2c;
   border-bottom: 1px solid #f4f4f4;
   text-decoration: none;
