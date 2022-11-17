@@ -1,16 +1,16 @@
 items:
   - name: Solex
-    img_src: /assets/uploads/logonuevo_solex-100x25.png
+    img_src: /assets/uploads/solex-logo-misma-altura.png
     link: https://www.solex.cl/
   - name: Codelco
-    img_src: /assets/img/brand/2.png
+    img_src: /assets/uploads/codelco-logo-misma-altura.png
     link: https://www.codelco.com/
   - name: UAI
-    img_src: /assets/img/brand/3.png
+    img_src: /assets/uploads/uai-logo-misma-altura.png
     link: https://www.uai.cl/
   - name: BHP
-    img_src: /assets/img/brand/4.png
+    img_src: /assets/uploads/bhp-logo-misma-altura.png
     link: https://www.bhp.com/es
   - name: MSD
-    img_src: /assets/img/brand/5.png
+    img_src: /assets/uploads/msd-logo-misma-altura.png
     link: https://www.corporativo.msdchile.cl/
