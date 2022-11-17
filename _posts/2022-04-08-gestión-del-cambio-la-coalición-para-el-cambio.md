@@ -6,7 +6,7 @@ post_image: /assets/img/blog/b3.jpg
 author_name: Francisco Vallés
 comments: true
 tags:
-  - tecnología
+  - gestión del cambio
   - educación
 post_id: 3
 categories:
