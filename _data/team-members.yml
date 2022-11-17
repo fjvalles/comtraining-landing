@@ -7,19 +7,3 @@ items:
     img_src: /assets/img/team/t2.jpg
     designation: SOCIO
     linkedin: https://linkedin.com/
-  - name: Arnold
-    img_src: /assets/img/team/t3.jpg
-    designation: Software Engineer
-    linkedin: https://linkedin.com/
-  - name: Lunia
-    img_src: /assets/img/team/t4.jpg
-    designation: Clean Experts
-    linkedin: https://linkedin.com/
-  - name: Jeckmo
-    img_src: /assets/img/team/t5.jpg
-    designation: Clean Experts
-    linkedin: https://linkedin.com/
-  - name: Beralt
-    img_src: /assets/img/team/t6.jpg
-    designation: Web Designer
-    linkedin: https://linkedin.com/
