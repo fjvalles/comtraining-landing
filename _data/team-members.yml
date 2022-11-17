@@ -1,9 +1,9 @@
 items:
   - name: Francisco
-    img_src: /assets/img/team/t1.jpg
+    img_src: /assets/uploads/francisco-perfil.jpg
     designation: CEO/Socio - Comtraining
-    linkedin: https://linkedin.com/
+    linkedin: https://www.linkedin.com/in/francisco-vall%C3%A9s/
   - name: Edgardo
-    img_src: /assets/img/team/t2.jpg
+    img_src: /assets/uploads/edgardo-perfil.jpg
     designation: SOCIO
-    linkedin: https://linkedin.com/
+    linkedin: https://www.linkedin.com/in/edgardo-mimica-4a3644144/
