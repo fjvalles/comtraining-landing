@@ -4,7 +4,7 @@ title: Gestión del Cambio - La Coalición para el Cambio
 date: 2022-04-08T15:37:13.000Z
 post_image: /assets/img/blog/b3.jpg
 author_name: Francisco Vallés
-comments: true
+comments: false
 tags:
   - gestión del cambio
   - educación
