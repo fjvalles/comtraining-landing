@@ -1524,7 +1524,7 @@ div#preloader {
 
 .support-services .support-content h4 {
   font-size: 22px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   padding-bottom: 0px;
 }
 
