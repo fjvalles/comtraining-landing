@@ -29,7 +29,7 @@
                         <div class="footer-head">
                             <h4>Servicios</h4>
                             <ul class="footer-list">
-                                {% for service in site.services limit:5 %}
+                                {% for service in site.services %}
                                 <li><a href="{{service.url | relative_url}}">{{service.title}}</a></li>
                                 {% endfor %}
                             </ul>
