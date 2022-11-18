@@ -1,12 +1,19 @@
 items:
-  - question: We are the best clean platform in the world?
-    answer: When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection of text within a single line, the amount of words is roughly being .
-
-  - question: World class creative experts team member?
-    answer: When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection of text within a single line, the amount of words is roughly being .
-
+  - question: ¿Cree que sus líderes tienen desarrollado el pensamiento adaptativo?
+    answer: El pensamiento adaptativo es la habilidad de hacer cambios en las
+      propias ideas, las conductas, hábitos y patrones para ajustarse con éxito
+      a un entorno diferente.
+  - question: ¿Cree que hoy es útil replantearse la cultura organizacional y valores
+      de su empresa?
+    answer: En el mundo donde los empleados están pensando no solo en por qué
+      trabajan o dónde trabajan, sino también en cómo trabajan en general es
+      útil considerar que las nuevas formas de trabajar afectan la cultura y
+      valores.
   - question: Clients satisfaction make company value?
-    answer: When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection of text within a single line, the amount of words is roughly being .
-
+    answer: When replacing a multi-lined selection of text, the generated dummy text
+      maintains the amount of lines. When replacing a selection of text within a
+      single line, the amount of words is roughly being .
   - question: How to successful our business plan?
-    answer: When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection of text within a single line, the amount of words is roughly being .
+    answer: When replacing a multi-lined selection of text, the generated dummy text
+      maintains the amount of lines. When replacing a selection of text within a
+      single line, the amount of words is roughly being .
