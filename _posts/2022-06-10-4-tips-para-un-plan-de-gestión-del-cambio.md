@@ -3,7 +3,7 @@ layout: post
 title: 3 tips para un plan de gestión del cambio
 date: 2022-06-10T15:37:13.000Z
 post_image: /assets/img/blog/b3.jpg
-author_name: Francisco Vallés
+author_name: Anónimo
 comments: true
 tags:
   - tecnología
