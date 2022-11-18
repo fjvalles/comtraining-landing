@@ -31,4 +31,4 @@ categories:
   <div class="img-blog right-blog-img">
       <img src="{{'/assets/img/blog/b4.jpg' | relative_url }}" alt="">
   </div>
-  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+  <p>Finalmente, es esencial cuidar que el proyecto de gestión del cambio tenga el respaldo del mayor número de responsables o líderes de la organización y asegurar que las razones y los objetivos del proyecto sean muy claros y  consolidados.</p>
