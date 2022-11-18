@@ -50,6 +50,7 @@ collections:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Ícono', name: 'icon', widget: 'image' }
       - { label: 'Descripción', name: 'description', widget: 'text' }
+      - { label: 'Url brochure', name: 'brochure_url', widget: 'string' }
       - { label: 'Cita', name: 'quote', widget: 'text' }
       - { label: 'Autor cita', name: 'quote_author', widget: 'string' }
       - { label: 'Subtexto autor cita', name: 'quote_author_subtitle', widget: 'string' }
