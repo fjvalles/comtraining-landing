@@ -8,13 +8,13 @@
 ####################################################
 
 # Site settings
-title: "Comtraining | Consultorías & Coaching"
+title: "Comtraining &#124; Consultorías & Coaching"
 email: "info@comtraining.cl"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: " " # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo/logo.png
 description: ""
-keywords: "coaching, coaching ejecutivo, liderazgo, cambio organizacional, clima organizacional, team building, team learning"
+keywords: "academy, alto impacto, aprendizaje, aprendizaje experiencial, cambio, clima organizacional, clima y cultura organizacional, coaching, coaching empresarial, cultura , cultura organizacional, destrezas, experiencial, formación aplicada, gestión cambio, gestión cambio organizacional, gestión del cambio, habilidades, liderazgo, medición de productividad, mediciones, productividad, programas de entrenamiento, skill academy, skills, soft skills, taller, taller alto impacto, team building, team coaching, team learning, transformación"
 mailclimp: ''
 facebook: https://www.facebook.com/Comtrainingpro/
 instagram: https://www.instagram.com/comtraining.consulting/
