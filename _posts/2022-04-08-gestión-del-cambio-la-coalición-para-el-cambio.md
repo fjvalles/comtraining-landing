@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gestión del Cambio - La Coalición para el Cambio
+title: Gestión del Cambio - La coalición para el cambio
 date: 2022-04-08T15:37:13.000Z
 post_image: /assets/img/blog/b3.jpg
 author_name: Francisco Vallés
