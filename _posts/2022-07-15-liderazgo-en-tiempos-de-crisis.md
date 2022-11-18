@@ -16,13 +16,13 @@ categories:
   <blockquote>
       <p>Los líderes exitosos tienen que estar conscientes de lo que su propio estrés puede desencadenar en la gente y modular su comportamiento durante estos períodos. </p>
   </blockquote>							
-  <p> because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.</p>
+  <p> Con el centro de atención puesto en el líder y su empresa, el liderazgo durante la crisis puede llegar a destruir su carrera,</p>
   <h4>With more and more people trading with this digital </h4>
-  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+  <p>No existe un manual práctico que pueda guiar a un líder en una crisis. Aunque existen algunos protocolos que eviten que ocurra una crisis, cada nueva crisis es única a su manera, con sus propios problemas y peculiaridades, y requerirá de un enfoque diferente al utilizado anteriormente.</p>
   <div class="img-blog left-blog-img">
       <img src="{{'/assets/img/blog/b3.jpg' | relative_url }}" alt="">
   </div>
   <div class="img-blog right-blog-img">
       <img src="{{'/assets/img/blog/b4.jpg' | relative_url }}" alt="">
   </div>
-  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p>
+  <p>El liderazgo de crisis se ocupa de eventos impredecibles que podrían tener el potencial de debilitar la estructura organizacional de la empresa u obstaculizar las oportunidades de crecimiento y desarrollo. Tener un enfoque estructurado y sistemático para la gestión de crisis puede ayudar a contener la pérdida de la organización.</p>
