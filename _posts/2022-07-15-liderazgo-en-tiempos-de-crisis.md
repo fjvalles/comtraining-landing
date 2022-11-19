@@ -31,8 +31,8 @@ SER DECISIVO. Muchos líderes empresariales de hoy enfrentan algunos de los desa
 
 SER ÁGIL. Moverse constantemente para reposicionarse sobre la marcha.
 
-LIDERAR CON CONFIANZA. El estado de ánimo es fundamental en tiempos de crisis. Los grandes líderes saben que deben siempre en liderar en una crisis con confianza respaldada por el optimismo.
+LIDERAR CON CONFIANZA. El estado de ánimo es fundamental en tiempos de crisis. Los grandes líderes saben que deben siempre liderar en una crisis con confianza respaldada por el optimismo.
 
-COMUNICAR PARA INSPIRAR. Los líderes en tiempos de crisis  saben que la comunicación transmite información vital y fortalece la resolución.
+COMUNICAR PARA INSPIRAR. Los líderes en tiempos de crisis saben que la comunicación transmite información vital y fortalece la resolución.
 
 </p>
