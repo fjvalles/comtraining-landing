@@ -32,7 +32,7 @@ categories:
   </div>
   <p>Las tres cualidades más relevantes de los pensadores adaptativos son:</p>
 
-</p>EL CONTROL DE IMPULSOS.  La capacidad de controlar las emociones y deseos es esencial en el pensamiento adaptativo. Eso significa acostumbrarse a pensar en las consecuencias de tus comportamientos antes de actuar.</p>
+<p>EL CONTROL DE IMPULSOS.  La capacidad de controlar las emociones y deseos es esencial en el pensamiento adaptativo. Eso significa acostumbrarse a pensar en las consecuencias de tus comportamientos antes de actuar.</p>
 
 </p>DEJA TU EGO FUERA. La necesidad de aferrarse a tus propias opiniones como hechos indiscutibles es tu peor enemigo cuando se trata del pensamiento adaptativo. Al abandonar tus suposiciones previas, te sorprenderás de la forma en que cambia su proceso de pensamiento. ¡La humildad genera curiosidad!</p>
 
