@@ -6,7 +6,7 @@ post_image: /assets/img/blog/b3.jpg
 author_name: Anónimo
 comments: false
 tags:
-  - tecnología
+  - educación
   - gestión del cambio
 post_id: 3
 categories:
