@@ -34,6 +34,6 @@ categories:
 
 <p>EL CONTROL DE IMPULSOS.  La capacidad de controlar las emociones y deseos es esencial en el pensamiento adaptativo. Eso significa acostumbrarse a pensar en las consecuencias de tus comportamientos antes de actuar.</p>
 
-</p>DEJA TU EGO FUERA. La necesidad de aferrarse a tus propias opiniones como hechos indiscutibles es tu peor enemigo cuando se trata del pensamiento adaptativo. Al abandonar tus suposiciones previas, te sorprenderás de la forma en que cambia su proceso de pensamiento. ¡La humildad genera curiosidad!</p>
+</p>DEJAR EL EGO FUERA. La necesidad de aferrarse a tus propias opiniones como hechos indiscutibles es tu peor enemigo cuando se trata del pensamiento adaptativo. Al abandonar tus suposiciones previas, te sorprenderás de la forma en que cambia su proceso de pensamiento. ¡La humildad genera curiosidad!</p>
 
 </p>MANTÉN LA CURIOSIDAD. Hay, y siempre ha habido, una forma de dejar atrás lo viejo y adoptar lo nuevo. Ten la capacidad de abandonar con confianza lo que alguna vez creíste verdad, a cambio de lo que ahora suena verdadero.</p>
