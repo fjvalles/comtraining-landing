@@ -16,7 +16,7 @@ categories:
   <blockquote>
       <p>Considera que el desarrollo de un plan gestión del cambio, por pequeño que sea el cambio, afectará a la estructura interna de toda la organización.</p>
   </blockquote>							
-  <p> Para un buen desarrollo, considera al menos los siguientes tips que afectarán el resultado final:.</p>
+  <p> Para el desarrollo de un buen plan de gestión del cambio, considera al menos los siguientes tips que afectarán el resultado final:</p>
   <h4>TIP N° 1 -  Escribe un breve relato del proyecto de gestión del cambio</h4>
   <p>Escribe una introducción (relato) a tu proyecto de gestión del cambio que indique su origen, el porqué se justifica realizar el proyecto y su esfuerzo de cambio. También, las consecuencias de no ejecutarlo y los beneficios que significará para la organización implementarlo. Estos beneficios deben estar claramente especificados para que todos los stakeholders se motiven con las ventajas de realizar el esfuerzo de cambio.</p>
 
