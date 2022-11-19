@@ -21,8 +21,7 @@ categories:
 <p>Tampoco miran y buscan en sus actuales empleados a los futuros talentos que necesitarán. La movilidad interna es importante para el desarrollo y detección de habilidades. Hay mucho que hacer en una organización para ayudar a sus actuales empleados a encontrar diferentes roles dentro de la empresa que estén alineados con su visión de futuro.?.</p>
 
   <h4>¿Qué hacer si te cuesta el liderazgo adaptativo?</h4>
-  <p>Si sientes que te cuesta el liderazgo adaptativo la buena noticia dice que es una habilidad que se puede desarrollar. Y depende principalmente de ti, guiado tal vez por un coach experimentado.</p>
-
+  <p>Si sientes que te cuesta el liderazgo adaptativo la buena noticia dice que es una habilidad que se puede desarrollar. Y depende principalmente de ti, guiado tal vez por un coach experimentado.</p>\
 </p>El pensamiento adaptativo es la habilidad de hacer cambios en las propias ideas, las conductas, hábitos y patrones para ajustarse con éxito a un entorno diferente. Implica la capacidad de reconocer situaciones inesperadas, considerar rápidamente varias respuestas posibles y decidir cuál es la mejor. Y puede ser desarrollado.</p>
 
   <div class="img-blog left-blog-img">
