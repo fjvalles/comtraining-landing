@@ -25,7 +25,7 @@ categories:
   <div class="img-blog right-blog-img">
       <img src="{{'/assets/img/blog/b4.jpg' | relative_url }}" alt="">
   </div>
-  <p>El liderazgo de crisis se ocupa de eventos impredecibles que podrían tener el potencial de debilitar la estructura organizacional de la empresa u obstaculizar las oportunidades de crecimiento y desarrollo. Tener un enfoque estructurado y sistemático para la gestión de crisis puede ayudar a contener pérdidas en la organización. Algunas lecciones de liderazgo  aprendidas para enfrentar las crisis son:
+  <p>El liderazgo de crisis se ocupa de eventos impredecibles que podrían tener el potencial de debilitar la estructura organizacional de la empresa u obstaculizar las oportunidades de crecimiento y desarrollo. Tener un enfoque estructurado y sistemático para la gestión de crisis puede ayudar a contener pérdidas en la organización. Algunas lecciones de liderazgo  aprendidas para enfrentar las crisis son:<p>
 
 SER DECISIVO. Muchos líderes empresariales de hoy enfrentan algunos de los desafíos más difíciles que jamás hayan conocido. El ser decisivo tiene que ver en que el líder no debe detenerse en las pérdidas.
 
