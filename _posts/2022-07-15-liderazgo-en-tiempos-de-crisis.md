@@ -14,7 +14,7 @@ categories:
 ---
 <p>Las acciones de un líder en tiempos de crisis son seguidas de cerca por sus colaboradores. Estas tienen un impacto profundo en la cultura de la empresa y en el comportamiento de los empleados.</p>
   <blockquote>
-      <p>Los líderes exitosos tienen que estar conscientes de lo que su propio estrés puede desencadenarse en la gente y modular su comportamiento durante estos períodos.</p>
+      <p>Los líderes exitosos tienen que estar conscientes de lo que su propio estrés puede desencadenar en la gente y modular su comportamiento durante estos períodos.</p>
   </blockquote>							
   <p> Con el centro de atención puesto en el líder y su empresa, el liderazgo durante la crisis puede llegar a destruir su carrera,</p>
   <h4>¿Existe un manual práctico para usar en las crisis?</h4>
