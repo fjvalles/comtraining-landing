@@ -6,8 +6,8 @@ post_image: /assets/img/blog/b3.jpg
 author_name: Francisco Vallés
 comments: false
 tags:
-  - gestión del cambio
-  - educación
+  - gestion del cambio
+  - educacion
 post_id: 3
 categories:
   - tips

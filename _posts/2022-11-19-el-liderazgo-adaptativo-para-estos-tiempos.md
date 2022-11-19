@@ -6,7 +6,7 @@ post_image: /assets/uploads/b1.jpg
 author_name: Francisco Vallés
 comments: true
 categories:
-  - Liderazgo
+  - liderazgo
 ---
 <p>Hoy estamos con inflación, con una recesión que se avecina, con cierta incertidumbre política, agitaciones sociales y una pandemia que se resiste a retirarse. En un escenario así ¿Qué habilidades requiere un buen líder para salir adelante?</p>
   <blockquote>

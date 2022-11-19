@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-sitemap
 
 
 # Site configuration for the Jekyll 2 Pagination Gem
@@ -56,7 +57,7 @@ autopages:
     layouts:
       - 'category.html'
     title: 'Categoría -  :cat'
-    permalink: '/categoría/:cat'
+    permalink: '/categoria/:cat'
   collections:
     layouts:
       - 'category.html'
@@ -76,15 +77,15 @@ jekyll-archives:
   enabled: all
   layout: category
   permalinks:
-    category: '/categoría/:name/'
+    category: '/categoria/:name/'
 
 collections:
   services:
     output: true
     permalink: /servicios/:path/
-  projects:
-    output: true
-    permalink: /project/:path/
+  # projects:
+  #   output: true
+  #   permalink: /project/:path/
   authors:
 
 feed:

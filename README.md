@@ -2,7 +2,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d5aa0045-cb9f-4495-b114-0a55d345a242/deploy-status)](https://app.netlify.com/sites/comtraining/deploys)
 
-https://comtraining.cl/
 https://comtraining.biz/
 
 ## Uso

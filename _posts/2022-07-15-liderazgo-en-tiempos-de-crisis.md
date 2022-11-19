@@ -6,8 +6,8 @@ post_image: /assets/img/blog/b2.jpg
 author_name: Anónimo
 comments: false
 tags:
-  - tecnología
-  - educación
+  - tecnologia
+  - educacion
 post_id: 2
 categories:
   - tips

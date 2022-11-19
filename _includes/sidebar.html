@@ -27,18 +27,18 @@
     </div>
     <div class="left-blog-page">
         <div class="left-blog blog-category">
-            <h4>categorías</h4>
+            <h4>categorias</h4>
             <ul>
                 {% assign categories_list = site.categories %}
 
                 {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                <li><a href="{{'/categoría/' | relative_url }}{{category | slugify}}">{{ category
+                <li><a href="{{'/categoria/' | relative_url }}{{category | slugify}}">{{ category
                     | camelcase }}</a><span>{{category.size}}</span></li>
                 {% endfor %}
                 {% else %}
                 {% for category in categories_list %}
-                <li><a href="{{'/categoría/' | relative_url }}{{category[0] | slugify}}">{{ category[0]
+                <li><a href="{{'/categoria/' | relative_url }}{{category[0] | slugify}}">{{ category[0]
                     | camelcase }}</a><span>{{category[0].size}}</span></li>
                 {% endfor %}
                 {% endif %}
