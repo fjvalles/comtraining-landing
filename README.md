@@ -10,8 +10,6 @@ https://comtraining.biz/
 ```
 gem install jekyll
 ```
-[Instala Hugo](https://gohugo.io/overview/installing/)
-
 ### 2. Inicia el servidor
 ```
 bundle exec jekyll serve
