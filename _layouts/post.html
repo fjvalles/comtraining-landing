@@ -34,7 +34,10 @@ layout: default
                                 <div class="blog-meta">
                                     <span class="admin-type">
                                         <i class="ti-user"></i>
-                                        {{page.author_name}}
+                                        {% assign author = site.authors | where: 'name', page.author_name | first %}
+                                        {% if author %}
+                                            {{author.name}}
+                                        {% endif %}
                                     </span>
                                     <span class="date-type">
                                         <i class="ti-calendar"></i>

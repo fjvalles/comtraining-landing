@@ -85,6 +85,7 @@ collections:
   projects:
     output: true
     permalink: /project/:path/
+  authors:
 
 feed:
   collections:

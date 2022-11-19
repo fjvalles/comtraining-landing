@@ -22,10 +22,11 @@ collections:
       - { label: 'Foto principal', name: 'post_image', widget: 'image' }
       - label: "Autor"
         name: "author_name"
-        widget: "select"
-        options:
-          - { label: "Francisco Vallés", value: "Francisco Vallés" }
-          - { label: "Anónimo", value: "Anónimo" }
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["name"]
+        display_fields: ["name"]
+        value_field: "name"
       - { label: '¿Permitir comentarios?', name: 'comments', widget: 'boolean' }
       - label: "Etiquetas"
         name: "tags"
@@ -39,6 +40,17 @@ collections:
         min: 1
         summary: '{{fields.name}}'
         field: {label: Nombre, name: name, widget: string}
+  - name: 'authors'
+    label: 'Authors'
+    folder: '_authors/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Nombre', name: 'name', widget: 'string' }
+      - { label: 'Bio', name: 'bio', widget: 'text' }
+      - { label: 'Rol', name: 'designation', widget: 'string' }
+      - { label: 'Imagen', name: 'profile_image', widget: 'image' }
   - name: 'services'
     label: 'Servicios'
     folder: '_services/'
