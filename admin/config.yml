@@ -41,7 +41,7 @@ collections:
         summary: '{{fields.name}}'
         field: {label: Nombre, name: name, widget: string}
   - name: 'authors'
-    label: 'Authors'
+    label: 'Autores'
     folder: '_authors/'
     create: true
     editor:
