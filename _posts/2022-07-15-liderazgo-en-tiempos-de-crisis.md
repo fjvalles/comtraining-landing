@@ -3,7 +3,7 @@ layout: post
 title: Liderazgo en tiempos de crisis
 date: 2022-07-15T15:37:00.000Z
 post_image: /assets/img/blog/b2.jpg
-author_name: Anónimo
+author_name: Comtraining
 comments: false
 tags:
   - tecnologia
