@@ -25,4 +25,4 @@ categories:
   <div class="img-blog right-blog-img">
       <img src="{{'/assets/img/blog/b4.jpg' | relative_url }}" alt="">
   </div>
-  <p>Los roles dentro de este equipo requieren una descripción detallada de las responsabilidades de cada integrante.  Este grupo será responsable de elaborar el plan de gestión del cambio cuidando, entre otros, aspectos tales como la situación de partida, áreas de mejora, identificación de profesionales claves, experiencias previas negativas o positivas,  potenciales situaciones de freno y sistemas o estructuras a reforzar o consolidar..</p>
+  <p>Los roles dentro de este equipo requieren una descripción detallada de las responsabilidades de cada integrante.  Este grupo será responsable de elaborar el plan de gestión del cambio cuidando, entre otros, aspectos tales como la situación de partida, áreas de mejora, identificación de profesionales claves, experiencias previas negativas o positivas,  potenciales situaciones de freno y sistemas o estructuras a reforzar o consolidar.</p>
