@@ -12,7 +12,7 @@ post_id: 3
 categories:
   - tips
 ---
-<p>Por lo general, el cambio es patrocinado en el nivel superior de una organización aunque puede impulsarse también en los niveles inferiores o niveles medios de esta. Por esta razón, la formación de una coalición del cambio (también llamada de liderazgo del cambio o equipo de supervisión del cambio) es esencial para la viabilidad a largo plazo de cualquier esfuerzo de cambio.</p>
+<p>Por lo general, un plan de gestión del cambio es patrocinado en el nivel superior de una organización aunque puede impulsarse también en los niveles inferiores o niveles medios de esta. Por esta razón, la formación de una coalición del cambio (también llamada de liderazgo del cambio o equipo de supervisión del cambio) es esencial para la viabilidad a largo plazo de cualquier esfuerzo de cambio.</p>
   <blockquote>
       <p>Para formar este equipo o coalición, encuentra, convence y selecciona a personas de diferentes niveles de tu organización que tengan poder de decisión, credibilidad, experiencia funcional y responsabilidad de liderazgo de línea.</p>
   </blockquote>							
