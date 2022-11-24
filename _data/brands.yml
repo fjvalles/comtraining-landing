@@ -14,3 +14,6 @@ items:
   - name: MSD
     img_src: /assets/uploads/msd-logo-misma-altura.png
     link: https://www.corporativo.msdchile.cl/
+  - name: ciren
+    img_src: /assets/uploads/ciren.jpg
+    link: https://www.ciren.cl/
