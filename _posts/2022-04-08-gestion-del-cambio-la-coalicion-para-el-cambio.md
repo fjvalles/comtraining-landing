@@ -2,7 +2,7 @@
 layout: post
 title: Gestión del Cambio - La coalición para el cambio
 date: 2022-07-28T15:37:13.000Z
-post_image: /assets/uploads/coalicion-del-cambio.png
+post_image: /assets/uploads/gestion-del-cambio-coalicion.jpg
 author_name: Francisco Vallés
 comments: false
 tags:
