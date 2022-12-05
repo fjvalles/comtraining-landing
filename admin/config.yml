@@ -61,6 +61,8 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'service' }
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Ícono', name: 'icon', widget: 'image' }
+      - { label: 'Imagen detalle 1', name: 'first_image', widget: 'image' }
+      - { label: 'Imagen detalle 2', name: 'second_image', widget: 'image' }
       - { label: 'Descripción', name: 'description', widget: 'text' }
       - { label: 'Url brochure', name: 'brochure_url', widget: 'string' }
       - { label: 'Cita', name: 'quote', widget: 'text' }
