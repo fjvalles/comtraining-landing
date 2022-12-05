@@ -155,7 +155,7 @@
       nav:false,
           margin:30,
       dots:true,
-      autoplay:false,
+      autoplay:true,
       responsive:{
         0:{
           items:1
