@@ -1,4 +1,4 @@
-<form id="contactForm" class="contact-form" data-netlify="true" action="/success">
+<form id="contactForm" class="contact-form" data-netlify="true" data-netlify-recaptcha="true" action="/success">
     <div class="row">
         <div class="col-xl-6 col-lg-6 col-md-6">
             <input type="text" name="Name" id="name" class="form-control" placeholder="Nombre" required
@@ -20,6 +20,7 @@
                 data-error="Escriba un mensaje"></textarea>
             <div class="help-block with-errors"></div>
         </div>
+        <div data-netlify-recaptcha="true"></div>
         <div class="col-xl-12 col-lg-12 col-md-12">
             <button type="submit" id="submit" class="contact-btn">Enviar mensaje</button>
             <div id="msgSubmit" class="h3 text-center hidden"></div>
