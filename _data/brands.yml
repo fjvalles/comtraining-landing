@@ -15,5 +15,8 @@ items:
     img_src: /assets/uploads/msd-logo-misma-altura.png
     link: https://www.corporativo.msdchile.cl/
   - name: ciren
-    img_src: /assets/uploads/ciren.jpg
+    img_src: /assets/uploads/ciren-logo.png
     link: https://www.ciren.cl/
+  - name: semillas tuniche
+    img_src: /assets/uploads/semillas-tuniche-logo.png
+    link: https://www.tunichechile.cl/
