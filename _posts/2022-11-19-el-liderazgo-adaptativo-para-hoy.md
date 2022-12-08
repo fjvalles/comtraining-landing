@@ -7,11 +7,13 @@ author_name: Francisco Vallés
 comments: false
 categories:
   - liderazgo
+first_image: /assets/img/blog/b3.jpg
+second_image: /assets/img/blog/b4.jpg
 ---
 <p>Hoy estamos con inflación, con una recesión que se avecina, con cierta incertidumbre política, agitaciones sociales y una pandemia que se resiste a retirarse. En un escenario así ¿Qué habilidades requiere un buen líder para salir adelante?</p>
   <blockquote>
       <p>El buen liderazgo siempre es adaptativo y reconoce que la gestión de los ciclos: crisis, depresión, reanimación y auge es parte de la naturaleza humana. Por lo que sabe que no solo se lidera cuando brilla el sol.</p>
-  </blockquote>							
+  </blockquote>
   <p> Los líderes adaptativos ven los tiempos de ciclos difíciles como una oportunidad ¡sobretodo porque las cosas cambian! Eso significa que quizás te toque tomar decisiones que nunca antes en tu vida habías tenido que tomar y que nadie aún ha tenido que tomarlas antes. Se requiere también coraje. </p>
 
 <p>La habilidad de pensamiento adaptativo o flexibilidad de pensamiento se hace esencial hoy para el liderazgo. Un ejemplo práctico donde ocupar esta habilidad es en la escasez de mano de obra calificada en el mundo laboral y en la retención de talentos.</p>
@@ -24,13 +26,13 @@ categories:
   <p>Si sientes que te cuesta el liderazgo adaptativo la buena noticia dice que es una habilidad que se puede desarrollar. Y depende principalmente de ti, guiado tal vez por un coach experimentado.</p>
 
 <p>El pensamiento adaptativo es la habilidad de hacer cambios en las propias ideas, las conductas, hábitos y patrones para ajustarse con éxito a un entorno diferente. Implica la capacidad de reconocer situaciones inesperadas, considerar rápidamente varias respuestas posibles y decidir cuál es la mejor. ¡Y puede ser desarrollado!</p>\
-  <div class="img-blog left-blog-img">
-      <img src="{{'/assets/img/blog/b3.jpg' | relative_url }}" alt="">
-  </div>
-  <div class="img-blog right-blog-img">
-      <img src="{{'/assets/img/blog/b4.jpg' | relative_url }}" alt="">
-  </div>
-  <p>Las tres cualidades más relevantes de los pensadores adaptativos son:</p>
+<div class="img-blog left-blog-img">
+  <img src="{{page.first_image | relative_url }}" alt="">
+</div>
+<div class="img-blog right-blog-img">
+  <img src="{{page.second_image | relative_url }}" alt="">
+</div>
+<p>Las tres cualidades más relevantes de los pensadores adaptativos son:</p>
 
 <p>CONTROLAR LOS IMPULSOS.  La capacidad de controlar las emociones y deseos es esencial en el pensamiento adaptativo. Eso significa acostumbrarse a pensar en las consecuencias de tus comportamientos antes de actuar.</p>
 

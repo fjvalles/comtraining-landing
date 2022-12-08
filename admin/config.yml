@@ -20,6 +20,8 @@ collections:
       - { label: 'Fecha de publicación', name: 'date', widget: 'datetime' }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
       - { label: 'Foto principal', name: 'post_image', widget: 'image' }
+      - { label: 'Imagen detalle 1', name: 'first_image', widget: 'image' }
+      - { label: 'Imagen detalle 2', name: 'second_image', widget: 'image' }
       - label: "Autor"
         name: "author_name"
         widget: "relation"
