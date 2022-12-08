@@ -14,7 +14,7 @@ categories:
   </blockquote>							
   <p> Los líderes adaptativos ven los tiempos de ciclos difíciles como una oportunidad ¡sobretodo porque las cosas cambian! Eso significa que quizás te toque tomar decisiones que nunca antes en tu vida habías tenido que tomar y que nadie aún ha tenido que tomarlas antes. Se requiere también coraje. </p>
 
-<p>La habilidad de pensamiento adaptativo o flexibilidad de pensamiento se hace esencial hoy para el liderazgo. Un ejemplo práctico donde ocupar esta habilidad es en la escasez de mano de obra calificada en el mundo laboral y la retención de talentos.</p>
+<p>La habilidad de pensamiento adaptativo o flexibilidad de pensamiento se hace esencial hoy para el liderazgo. Un ejemplo práctico donde ocupar esta habilidad es en la escasez de mano de obra calificada en el mundo laboral y en la retención de talentos.</p>
 
 <p>Muchos líderes aún están atrapados en patrones mentales del pasado mirando más los títulos y grados académicos de los postulantes para la incorporación de talentos. No miran mucho las habilidades cognitivas y emocionales que tienen los candidatos que hoy son la clave del  desarrollo y la selección profesional. </p>
 
