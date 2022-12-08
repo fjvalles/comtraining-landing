@@ -12,7 +12,7 @@ categories:
   <blockquote>
       <p>El buen liderazgo siempre es adaptativo y reconoce que la gestión de los ciclos: crisis, depresión, reanimación y auge es parte de la naturaleza humana. Por lo que sabe que no solo se lidera cuando brilla el sol.</p>
   </blockquote>							
-  <p> Los líderes adaptativos ven los tiempos de ciclos difíciles como una oportunidad ¡sobretodo porque las cosas cambian! Eso significa que quizás te toque tomar decisiones que nunca antes en tu vida habías tenido que tomar y que nadie aún ha tenido que tomarlas antes. Se requiere coraje. </p>
+  <p> Los líderes adaptativos ven los tiempos de ciclos difíciles como una oportunidad ¡sobretodo porque las cosas cambian! Eso significa que quizás te toque tomar decisiones que nunca antes en tu vida habías tenido que tomar y que nadie aún ha tenido que tomarlas antes. Se requiere también coraje. </p>
 
 <p>La habilidad de pensamiento adaptativo o flexibilidad de pensamiento se hace esencial hoy para el liderazgo. Un ejemplo práctico donde ocupar esta habilidad es en la escasez de mano de obra calificada en el mundo laboral y la retención de talentos.</p>
 
