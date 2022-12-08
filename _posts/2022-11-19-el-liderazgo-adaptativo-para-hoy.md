@@ -2,7 +2,7 @@
 layout: post
 title: El liderazgo adaptativo para hoy
 date: 2022-11-19T15:34:23.667Z
-post_image: /assets/uploads/liderazgo-adaptativo.jpg
+post_image: /assets/uploads/liderazgo-adaptativo.png
 author_name: Francisco Vallés
 comments: false
 categories:
