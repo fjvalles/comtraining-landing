@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 3 tips para iniciar un plan de gestión del cambio
+title: 3 tips para iniciar un plan de cambio
 date: 2022-06-10T15:37:13.000Z
 post_image: /assets/img/blog/b3.jpg
-author_name: Comtraining
+first_image: /assets/img/blog/b3.jpg
+second_image: /assets/img/blog/b4.jpg
 comments: false
 tags:
   - educacion
   - gestion del cambio
 post_id: 3
+author_name: Comtraining
 categories:
   - tips
-first_image: /assets/img/blog/b3.jpg
-second_image: /assets/img/blog/b4.jpg
 ---
 <p>El cambio es situacional. Es una interrupción de las expectativas (por ejemplo, un nuevo proyecto, nuevo CEO, nuevas funciones, políticas, procesos, tecnología, etc.). Cada cambio, incluso el más anhelado, requiere dejar algo atrás y soltarlo.</p>
 <blockquote>
