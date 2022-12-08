@@ -3,7 +3,7 @@ layout: post
 title: 3 tips para iniciar un plan de cambio
 date: 2022-06-10T15:37:13.000Z
 post_image: /assets/uploads/cultura-de-confianza.png
-first_image: /assets/img/blog/b3.jpg
+first_image: /assets/uploads/enseñanza-comtraining.png
 second_image: /assets/img/blog/b4.jpg
 comments: false
 tags:
