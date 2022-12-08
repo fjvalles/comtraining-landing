@@ -10,7 +10,7 @@ categories:
 ---
 <p>Hoy estamos con inflación, con una recesión que se avecina, con cierta incertidumbre política, agitaciones sociales y una pandemia que se resiste a retirarse. En un escenario así ¿Qué habilidades requiere un buen líder para salir adelante?</p>
   <blockquote>
-      <p>El buen liderazgo siempre es adaptativo y conoce que la gestión de los ciclos: crisis, depresión, reanimación y auge es parte de la naturaleza humana. Por lo que sabe que no solo se lidera cuando brilla el sol.</p>
+      <p>El buen liderazgo siempre es adaptativo y reconoce que la gestión de los ciclos: crisis, depresión, reanimación y auge es parte de la naturaleza humana. Por lo que sabe que no solo se lidera cuando brilla el sol.</p>
   </blockquote>							
   <p> Los líderes adaptativos ven los tiempos de ciclos difíciles como una oportunidad ¡sobretodo porque las cosas cambian! Eso significa que quizás te toque tomar decisiones que nunca antes en tu vida habías tenido que tomar y que nadie aún ha tenido que tomarlas antes. Se requiere coraje. </p>
 
