@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 3 tips para iniciar un plan de cambio
+title: 3 tips para iniciar un plan de cambios
 date: 2022-06-10T15:37:13.000Z
 post_image: /assets/uploads/tips-gestion-cambios.png
 first_image: /assets/uploads/enseñanza-comtraining.png
-second_image: /assets/img/blog/b4.jpg
+second_image: /assets/uploads/b2.jpg
 comments: false
 tags:
   - educacion
