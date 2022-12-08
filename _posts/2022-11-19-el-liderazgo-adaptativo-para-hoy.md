@@ -1,14 +1,14 @@
 ---
 layout: post
-title: El liderazgo adaptativo para hoy
+title: Liderazgo adaptativo para hoy
 date: 2022-11-19T15:34:23.667Z
 post_image: /assets/uploads/liderazgo-adaptativo-2.png
+first_image: /assets/uploads/enseñanza-comtraining.png
+second_image: /assets/uploads/b1.jpg
 author_name: Francisco Vallés
 comments: false
 categories:
   - liderazgo
-first_image: /assets/img/blog/b3.jpg
-second_image: /assets/img/blog/b4.jpg
 ---
 <p>Hoy estamos con inflación, con una recesión que se avecina, con cierta incertidumbre política, agitaciones sociales y una pandemia que se resiste a retirarse. En un escenario así ¿Qué habilidades requiere un buen líder para salir adelante?</p>
   <blockquote>
