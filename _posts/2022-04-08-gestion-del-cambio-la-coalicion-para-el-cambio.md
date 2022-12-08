@@ -3,17 +3,16 @@ layout: post
 title: Gestión del Cambio - La coalición para el cambio
 date: 2022-07-28T15:37:13.000Z
 post_image: /assets/uploads/gestion-del-cambio.png
-author_name: Francisco Vallés
+first_image: /assets/uploads/enseñanza-comtraining.png
+second_image: /assets/uploads/b2.jpg
 comments: false
 tags:
   - gestion del cambio
   - educacion
 post_id: 3
+author_name: Francisco Vallés
 categories:
   - tips
-first_image: /assets/img/blog/b3.jpg
-second_image: /assets/img/blog/b4.jpg
-
 ---
 <p>Por lo general, un plan de gestión del cambio es patrocinado en el nivel superior de una organización aunque puede impulsarse también en los niveles inferiores o niveles medios de esta. Por esta razón, la formación de una coalición del cambio (también llamada de liderazgo del cambio o equipo de supervisión del cambio) es esencial para la viabilidad a largo plazo de cualquier esfuerzo de cambio.</p>
   <blockquote>
