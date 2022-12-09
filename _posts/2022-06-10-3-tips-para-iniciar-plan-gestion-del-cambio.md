@@ -31,4 +31,6 @@ categories:
 <div class="img-blog right-blog-img">
   <img src="{{page.second_image | relative_url }}" alt="">
 </div>
+
+
 <p>Finalmente, es esencial cuidar que el proyecto de gestión del cambio tenga el respaldo del mayor número de responsables o líderes de la organización y asegurar que las razones y los objetivos del proyecto sean muy claros y  consolidados.</p>
