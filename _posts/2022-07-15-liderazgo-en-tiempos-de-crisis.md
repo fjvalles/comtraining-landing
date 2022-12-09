@@ -3,16 +3,16 @@ layout: post
 title: Liderazgo en tiempos de crisis
 date: 2022-07-15T15:37:00.000Z
 post_image: /assets/uploads/liderazgo-de-crisis.png
-author_name: Comtraining
+first_image: /assets/uploads/enseñanza-comtraining.png
+second_image: /assets/uploads/liderazgo-en-tiempos-crisis.jpg
 comments: false
 tags:
   - tecnologia
   - educacion
 post_id: 2
+author_name: Comtraining
 categories:
   - tips
-first_image: /assets/img/blog/b3.jpg
-second_image: /assets/img/blog/b4.jpg
 ---
 <p>Las acciones de un líder en tiempos de crisis son seguidas de cerca por sus colaboradores. Estas tienen un impacto profundo en la cultura de la empresa y en el comportamiento de los empleados.</p>
 <blockquote>
