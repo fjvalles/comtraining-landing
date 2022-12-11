@@ -20,7 +20,7 @@ categories:
 
 <p>Muchos líderes aún están atrapados en patrones mentales del pasado mirando más los títulos y grados académicos de los postulantes para la incorporación de talentos. No miran mucho las habilidades cognitivas y emocionales que tienen los candidatos que hoy son la clave del  desarrollo y la selección profesional. </p>
 
-<p>Tampoco miran y buscan en sus actuales empleados a los futuros talentos que necesitarán. La movilidad interna es importante para el desarrollo y detección de habilidades. Hay mucho que hacer en una organización para ayudar a sus actuales empleados a encontrar diferentes roles dentro de la empresa que estén alineados con su visión de futuro.?.</p>
+<p>Tampoco miran y buscan en sus actuales empleados a los futuros talentos que necesitarán. La movilidad interna es importante para el desarrollo y detección de habilidades. Hay mucho que hacer en una organización para ayudar a sus actuales empleados a encontrar diferentes roles dentro de la empresa que estén alineados con su visión de futuro.</p>
 
   <h4>¿Qué hacer si te cuesta el liderazgo adaptativo?</h4>
   <p>Si sientes que te cuesta el liderazgo adaptativo la buena noticia dice que es una habilidad que se puede desarrollar. Y depende principalmente de ti, guiado tal vez por un coach experimentado.</p>
