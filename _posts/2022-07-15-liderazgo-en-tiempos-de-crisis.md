@@ -20,7 +20,7 @@ categories:
 </blockquote>
 <p> Con el centro de atención puesto en el líder y su empresa, el liderazgo durante la crisis puede llegar a destruir la carrera de un líder.</p>
 <h4>¿Existe un manual práctico para usar en las crisis?</h4>
-<p>No existe un manual práctico que pueda guiar a un líder en una crisis. Aunque existen algunos protocolos y planes de gestión que evitan que ocurra algunas crisis, cada nueva crisis es única a su manera, con sus propios problemas y peculiaridades, y requerirá de un enfoque diferente al utilizado anteriormente.</p>
+<p>No existe un manual práctico que pueda guiar a un líder en una crisis. Aunque existen algunos protocolos y planes de gestión que evitan que ocurra algunas crisis. Cada nueva crisis es única a su manera, con sus propios problemas y peculiaridades, y requerirá de un enfoque diferente al utilizado anteriormente.</p>
 <div class="img-blog left-blog-img">
     <img src="{{page.first_image | relative_url }}" alt="">
 </div>
