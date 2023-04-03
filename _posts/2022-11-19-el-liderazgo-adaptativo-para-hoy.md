@@ -38,4 +38,4 @@ categories:
 
 <p>DEJAR EL EGO FUERA. La necesidad de aferrarse a tus propias opiniones como hechos indiscutibles es tu peor enemigo cuando se trata del pensamiento adaptativo. Al abandonar tus suposiciones previas, te sorprenderás de la forma en que cambia tu proceso de pensamiento. ¡La humildad genera curiosidad!</p>
 
-<p>MANTENER  LA CURIOSIDAD. Hay, y siempre ha habido, una forma de dejar atrás lo viejo y adoptar lo nuevo. Ten la capacidad de abandonar con confianza lo que alguna vez creíste verdad, a cambio de lo que ahora suena verdadero.</p>
+<p>MANTENER LA CURIOSIDAD. Hay, y siempre ha habido, una forma de dejar atrás lo viejo y adoptar lo nuevo. Ten la capacidad de abandonar con confianza lo que alguna vez creíste verdad, a cambio de lo que ahora suena verdadero.</p>
