@@ -1,6 +1,7 @@
 <ul class="main-menu">
     {% for link in site.data.navigation.items %}
-    <li class="{% if link.submenu %}menu-item-has-children{% endif %}"><a href="{{ link.url|prepend:site.baseurl }}">{{ link.text }}</a>
+    <li class="{% if link.submenu %}menu-item-has-children{% endif %}">
+        <a href="{{ link.url|prepend:site.baseurl }}">{{ link.text }}</a>
         {% if link.submenu %}
             <ul class="submenu">
                 {% for sublink in link.submenu %}
@@ -10,4 +11,9 @@
         {% endif %}
     </li>
     {% endfor %}
+    <li class="d-md-none">
+        <a style="min-height: initial;line-height: initial;" href="{{'/contacto' | relative_url }}" class="hd-btn">
+            Solicite cotización
+        </a>
+    </li>
 </ul>
