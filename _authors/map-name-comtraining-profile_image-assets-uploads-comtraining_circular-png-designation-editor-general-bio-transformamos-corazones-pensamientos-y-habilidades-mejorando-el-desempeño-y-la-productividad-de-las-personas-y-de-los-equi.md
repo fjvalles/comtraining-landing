@@ -1,8 +1,8 @@
 ---
 name: Comtraining
-bio: Transformamos corazones, pensamientos y habilidades mejorando el desempeño
-  y la productividad de las personas y de los equipos de trabajo de cualquier
-  organización con nuestros programas y entrenamientos de coaching.
+bio: Transformamos corazones, pensamientos y habilidades para mejorar
+  estrategias y la productividad de los negocios y personas de cualquier
+  organización aplicando nuestros programas y entrenamientos.
 designation: editor general
 profile_image: /assets/uploads/comtraining_circular.png
 ---
