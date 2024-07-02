@@ -2,8 +2,8 @@ items:
   - header_title: MISIÓN
     title: Revolucionar corazones, mentes y destrezas para impulsar la productividad
       hacia nuevas alturas.
-    description: "Inspiramos, cambiamos mentes y desarrollamos habilidades para
-      mejorar tu productividad "
+    description: Inspiramos, cambiamos mentes y desarrollamos habilidades para
+      mejorar tu productividad.
     image: /assets/uploads/enseñanza-comtraining.png
     over_image: /assets/img/feature/sd.jpg
     image_direction: right
@@ -28,8 +28,8 @@ items:
     image_direction: left
     main_points:
       - title: Mentalidad de lo que es posible
-        text: Cambiamos creencias limitantes de sus equipos ampliando su visión sobre
-          soluciones comerciales.
+        text: Cambiamos creencias limitantes de sus equipos ampliando su visión acerca
+          de nuevas soluciones comerciales.
         icon: flaticon-014-hierarchical-structure
       - title: Transformación y cambios de comportamientos
         text: Diseñamos soluciones que potencian la transformación organizacional con
