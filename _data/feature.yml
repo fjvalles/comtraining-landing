@@ -36,7 +36,7 @@ items:
           cambios de  comportamientos y hábitos.
         icon: flaticon-125-analytics
   - header_title: VALORES
-    description: Valores con los que creemos y operamos
+    description: Valores en loa cuales creemos y operamos;
     title: Excelencia, Curiosidad y Respeto
     image: /assets/uploads/b1.jpg
     over_image: /assets/uploads/comtraining_circular.png
@@ -48,7 +48,7 @@ items:
         icon: flaticon-014-hierarchical-structure
       - title: CURIOSIDAD
         text: Para aumentar el compromiso y el rendimiento con nuestros clientes
-          incluidos momentos de creatividad que incluye la exploración, la
+          incorporando momentos de creatividad que incluye la exploración, la
           investigación y el aprendizaje.
         icon: flaticon-014-hierarchical-structure
       - title: RESPETO
