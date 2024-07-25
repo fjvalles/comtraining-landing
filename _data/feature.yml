@@ -35,3 +35,24 @@ items:
         text: Diseñamos soluciones que potencian la transformación organizacional con
           cambios de  comportamientos y hábitos.
         icon: flaticon-125-analytics
+  - header_title: VALORES
+    description: Valores con los que creemos y operamos
+    title: Excelencia, Curiosidad y Respeto
+    image: /assets/uploads/b1.jpg
+    over_image: /assets/uploads/comtraining_circular.png
+    image_direction: right
+    main_points:
+      - title: EXCELENCIA
+        text: "Compromiso de ser o entregar lo mejor para lograr la satisfacción de
+          influir positivamente en los demás. "
+        icon: flaticon-014-hierarchical-structure
+      - title: CURIOSIDAD
+        text: Para aumentar el compromiso y el rendimiento con nuestros clientes
+          incluidos momentos de creatividad que incluye la exploración, la
+          investigación y el aprendizaje.
+        icon: flaticon-014-hierarchical-structure
+      - title: RESPETO
+        text: Como principio ético que significa tratar a los demás con dignidad,
+          amabilidad y empatía generando sentimientos de confianza, seguridad y
+          bienestar.
+        icon: flaticon-014-hierarchical-structure
