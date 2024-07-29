@@ -11,7 +11,7 @@ items:
       - title: Innovación
         text: Aumentamos la capacidad de generar nuevas ideas y métodos que transformen
           la forma de trabajar y resolver problemas.
-        icon: flaticon-073-speech
+        icon: flaticon-003-stamp
       - title: Fortalecimiento Significativo
         text: Potenciamos organizaciones de todos los tamaños para obtener una ventaja
           competitiva sobresaliente, fortaleciendo tanto sus operaciones como su
@@ -36,7 +36,7 @@ items:
           cambios de  comportamientos y hábitos.
         icon: flaticon-052-gear
   - header_title: VALORES
-    description: "Valores los cuales creemos y practicamos:"
+    description: "Valores en los cuales creemos y practicamos:"
     title: Excelencia, Curiosidad y Respeto
     image: /assets/uploads/b1.jpg
     over_image: /assets/uploads/comtraining_circular.png
