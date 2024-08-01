@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 tips para iniciar un plan de cambios
+title: 3 tips para iniciar un esfuerzo de cambio organizacional
 date: 2022-06-10T15:37:13.000Z
 post_image: /assets/uploads/tips-gestion-cambios.png
 first_image: /assets/uploads/enseñanza-comtraining.png
@@ -16,7 +16,7 @@ categories:
 ---
 <p>El cambio es situacional. Es una interrupción de las expectativas (por ejemplo, un nuevo proyecto, nuevo CEO, nuevas funciones, políticas, procesos, tecnología, etc.). Cada cambio, incluso el más anhelado, requiere dejar algo atrás y soltarlo.</p>
 <blockquote>
-    <p>Considera que el desarrollo de un plan gestión del cambio, por pequeño que sea el cambio, afectará a la estructura interna de toda la organización.</p>
+    <p>Considera que el desarrollo de un proceso de cambio organizacional, por pequeño que sea el cambio, afectará a la estructura interna de toda la organización.</p>
 </blockquote>
 <p> Para el desarrollo de un buen plan de gestión del cambio, considera al menos los siguientes tips que afectarán el resultado final:</p>
 <h4>Algunos tips útiles</h4>
@@ -32,4 +32,4 @@ categories:
   <img src="{{page.second_image | relative_url }}" alt="">
 </div>
 
-<p>Finalmente, es esencial cuidar que el proyecto de gestión del cambio tenga el respaldo del mayor número de responsables o líderes de la organización y asegurar que las razones y los objetivos del proyecto sean muy claros y  consolidados.</p>
+<p>Finalmente, es esencial cuidar que el proyecto de gestión del cambio tenga el respaldo del mayor número de responsables o líderes de la organización y asegurar que las razones y los objetivos del proyecto queden muy claros.</p>
