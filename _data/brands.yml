@@ -20,3 +20,6 @@ items:
   - name: semillas tuniche
     img_src: /assets/uploads/tuniche-logo.png
     link: https://www.tunichechile.cl/
+  - name: Fidens
+    img_src: /assets/uploads/image-36.png
+    link: www.fidens-insurtech.com
