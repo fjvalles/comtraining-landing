@@ -47,11 +47,13 @@ layout: default
                             </div>
                         </div>
                         <!-- strat single area -->
+                        {% if page.brochure_url and page.brochure_url != "" and page.brochure_url != "/#" %}
                         <div class="single-page-head">
                             <div class="download-btn">
-                                <a href="{{page.brochure_url | relative_url}}" class="down-btn">Descarga Brochure <i class="fa fa-file-pdf-o"></i></a>
+                                <a href="{{page.brochure_url | relative_url}}" class="down-btn" target="_blank" rel="noopener">Descarga Brochure <i class="fa fa-file-pdf-o"></i></a>
                             </div>
                         </div>
+                        {% endif %}
                         <!-- strat single area -->
                         <div class="single-page-head">
                             <div class="clients-testi">

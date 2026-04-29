@@ -69,7 +69,7 @@ collections:
       - { label: 'Imagen detalle 1', name: 'first_image', widget: 'image' }
       - { label: 'Imagen detalle 2', name: 'second_image', widget: 'image' }
       - { label: 'Descripción', name: 'description', widget: 'text' }
-      - { label: 'Url brochure', name: 'brochure_url', widget: 'string' }
+      - { label: 'Url brochure', name: 'brochure_url', widget: 'string', required: false }
       - { label: 'Cita', name: 'quote', widget: 'text' }
       - { label: 'Autor cita', name: 'quote_author', widget: 'string' }
       - { label: 'Subtexto autor cita', name: 'quote_author_subtitle', widget: 'string' }
