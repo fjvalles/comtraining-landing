@@ -4,6 +4,7 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 local_backend: true
+show_preview: false
 media_folder: 'assets/uploads'
 site_url: https://comtraining.netlify.app/
 logo_url: https://comtraining.netlify.app/assets/img/logo/logo.png
