@@ -14,7 +14,7 @@ items:
         url: /servicios/medicion-de-productividad/
       - text: Gestión del Cambio + IA
         url: /servicios/gestion-cambio-organizacional/
-      - text: Clima y Cultura Organizacional
+      - text: Clima y Cultura Organizacional+IA
         url: /servicios/clima-cultura-organizacional/
       - text: Comtraining Academy
         url: /servicios/comtraining-academy/
