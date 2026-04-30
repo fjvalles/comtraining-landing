@@ -12,9 +12,9 @@ items:
         url: /servicios/coaching-aplicado/
       - text: Productividad + IA
         url: /servicios/medicion-de-productividad/
-      - text: Gestión del Cambio + IA
+      - text: Gestión Cambio + IA
         url: /servicios/gestion-cambio-organizacional/
-      - text: Clima y Cultura Organizacional+IA
+      - text: Clima y Cultura + IA
         url: /servicios/clima-cultura-organizacional/
       - text: Comtraining Academy
         url: /servicios/comtraining-academy/
