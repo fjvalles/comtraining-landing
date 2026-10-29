@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La coalición para el cambio
-date: 2022-07-28T15:37:13.000Z
+date: 2026-07-28T11:37:00.000-04:00
 post_image: /assets/uploads/gestion-del-cambio.png
 first_image: /assets/uploads/enseñanza-comtraining.png
 second_image: /assets/uploads/b2.jpg
