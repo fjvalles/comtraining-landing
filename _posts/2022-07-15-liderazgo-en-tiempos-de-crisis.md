@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liderazgo en tiempos de crisis
-date: 2022-07-15T15:37:00.000Z
+date: 2025-07-15T11:37:00.000-04:00
 post_image: /assets/uploads/liderazgo-de-crisis.png
 first_image: /assets/uploads/enseñanza-comtraining.png
 second_image: /assets/uploads/b2.jpg
