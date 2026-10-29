@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liderazgo adaptativo para hoy
-date: 2022-11-19T15:34:23.667Z
+date: 2025-11-19T12:34:00.000-03:00
 post_image: /assets/uploads/liderazgo-adaptativo-2.png
 first_image: /assets/uploads/enseñanza-comtraining.png
 second_image: /assets/uploads/b1.jpg
