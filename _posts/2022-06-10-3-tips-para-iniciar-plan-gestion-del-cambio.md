@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 tips para iniciar un esfuerzo de cambio organizacional
-date: 2022-06-10T15:37:13.000Z
+date: 2025-06-10T11:37:00.000-04:00
 post_image: /assets/uploads/tips-gestion-cambios.png
 first_image: /assets/uploads/enseñanza-comtraining.png
 second_image: /assets/uploads/b2.jpg
